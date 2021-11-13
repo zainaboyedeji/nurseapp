@@ -1,0 +1,66 @@
+.sideMenu {
+  background: #fff1d6;
+  padding: 2rem;
+  width: 20%;
+  .menuLogo {
+    img {
+      width: 113.98px;
+      height: 24.73px;
+    }
+  }
+  .quickActions {
+    margin-top: 8rem;
+    .quickDiv {
+      p {
+		font-size: 12px;
+		color:#666666;
+		font-family: "Nunito Regular";
+      }
+	  h6{
+		  color:#666666;
+		  font-size: 12px;
+		  font-family: "Nunito Bold";
+	  }
+	  img{
+		margin-right: 0.5rem;
+		width:15px;
+		height:15px;
+	  }
+    }
+  }
+  .profileDiv {
+    display: flex;
+    margin-top: 4rem;
+	padding: 1rem;
+    background-color: white;
+	width: 212px;
+height: 56px;
+border-radius: 10px;
+	.acmeClinic{
+		margin-left: 1rem;
+		h6{
+			margin: 0!important;
+			padding:0!important;
+			color:#282828;
+			font-size: 14px;
+			font-family: "Nunito Bold";
+		}
+		p{
+			margin: 0!important;
+			padding:0!important;
+			
+			color:#666666;
+			font-size: 12px;
+			font-family: "Nunito Regular";
+		}
+		h5{
+			margin: 0!important;
+			padding:0!important;
+			
+			color:#F97B5C;
+			font-size: 10px;
+			font-family: "Nunito Light";	
+		}
+	}
+  }
+}
